@@ -1,0 +1,30 @@
+{
+  "name": "@tbj/axe",
+  "version": "1.0.14",
+  "description": "快捷搭建结构",
+  "preferGlobal": true,
+  "bin": {
+    "axe": "index.js"
+  },
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git@git.tongbanjie.com:skydragon/sd-axe.git"
+  },
+  "keywords": [
+    "axe",
+    "skydragon",
+    "components",
+    "reactH5"
+  ],
+  "author": "zhishui",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.3.3",
+    "commander": "^2.19.0",
+    "download-git-repo": "^1.1.0",
+    "format-json": "^1.0.3",
+    "inquirer": "^6.2.1",
+    "ora": "^3.0.0"
+  }
+}

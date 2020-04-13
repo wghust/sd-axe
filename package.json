@@ -1,6 +1,6 @@
 {
-  "name": "@tbj/axe",
-  "version": "1.0.14",
+  "name": "sd-axe-cli",
+  "version": "1.0.16",
   "description": "快捷搭建结构",
   "preferGlobal": true,
   "bin": {
@@ -9,7 +9,7 @@
   "scripts": {},
   "repository": {
     "type": "git",
-    "url": "git@git.tongbanjie.com:skydragon/sd-axe.git"
+    "url": "git@github.com:wghust/sd-axe.git"
   },
   "keywords": [
     "axe",

@@ -9,7 +9,7 @@
 ### 安装
 
 ```
-npm i @tbj/axe -g
+npm i sd-axe-cli -g
 ```
 
 ### 配置
@@ -27,7 +27,7 @@ axe init
 ```
 {
   "SkyDragon组件": {
-    "git": "git@git.tongbanjie.com:skydragon/sd-tpl-com.git",
+    "git": "git@github.com:wghust/sd-tpl-com.git",
     "prefix": "sd-com-"
   }
 }
@@ -56,12 +56,12 @@ Done:testgitCOn zhishui$ axe init
 
 在业务项目里，如果模板存在更新项，可以在tpl-git.json里对对应的模板新增update更新项。
 
-[https://git.tongbanjie.com/tbj_tpl/tpl-list](https://git.tongbanjie.com/tbj_tpl/tpl-list)
+[https://github.com/wghust/tpl-list](https://github.com/wghust/tpl-list)
 
 ```
 {
   "React-H5页面": {
-    "git": "git@git.tongbanjie.com:tbj_tpl/xd-page.git",
+    "git": "git@github.com:wghust/xd-page.git",
     "prefix": "",
     "update": [
       "./build",

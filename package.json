@@ -1,6 +1,6 @@
 {
   "name": "sd-axe-cli",
-  "version": "1.0.16",
+  "version": "1.0.17",
   "description": "快捷搭建结构",
   "preferGlobal": true,
   "bin": {
